@@ -1,0 +1,11 @@
+torch
+torchvision
+faiss-cpu
+open_clip_torch
+numpy
+pandas
+matplotlib
+scikit-learn
+h5py
+Pillow
+tqdm
