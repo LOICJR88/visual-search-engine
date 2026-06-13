@@ -26,9 +26,7 @@ visual_search_engine/
 
 │   └── comparison_summary.csv
 
-├── notebooks/
-
-│   └── visual_search_demo.ipynb
+│   ├──  visual_search_demo.ipynb
 
 ├── report/
 
